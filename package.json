@@ -1,0 +1,15 @@
+{
+  "name": "looplab",
+  "version": "1.0.0",
+  "description": "Social theme",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "shohruxpro",
+  "license": "ISC",
+  "homepage": "https://shohruxpro.github.io/LoopLab",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
